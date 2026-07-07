@@ -11,25 +11,9 @@
 
 ## 💡 What is lippedio?
 
-**lippedio** bridges the gap between high-scale system observability and rigorous regulatory control. Built natively for distributed polyrepo architectures and microservices, our platform ingests multi-tenant telemetry streams, applies advanced analytics to isolate root causes, and enforces automated **Compliance Intelligence** and **AI Governance** guardrails. 
+**lippedio** bridges the gap between high-scale system observability and rigorous regulatory control. our platform ingests multi-tenant telemetry streams, applies advanced analytics to isolate root causes, and enforces automated **Compliance Intelligence** and **AI Governance** guardrails. 
 
 Whether you are managing private enterprise codebases or executing public open-source workflows, **lippedio** ensures your applications and autonomous AI agents operate safely within deterministic compliance boundaries.
-
----
-
-## 🧱 Core Pillars
-
-### ⚡ 1. Log Ingestion
-High-throughput, line-rate ingestion engine designed to ingest structured stdout/stderr strings, system metrics, and traces from distributed microservices. Backed by the OpenTelemetry standard for vendor-agnostic pipeline flexibility.
-
-### 🔍 2. Log Analytics
-Real-time indexing and multi-tenant telemetry slicing. Instantly correlate API requests, background worker tasks (e.g., Celery), and external runtime exceptions to dramatically reduce Mean Time to Resolution (MTTR).
-
-### 🛡️ 3. Compliance Intelligence
-Automated, tamper-evident evidence collection mapping system behavior directly to global regulatory frameworks (SOC2, GDPR, HIPAA, EU AI Act). Guarantees strict data isolation boundaries between private and public workspaces.
-
-### 🤖 4. AI Governance & AIBOM
-Comprehensive monitoring for autonomous agents and non-deterministic models. **lippedio** automatically compiles an **AI Bill of Materials (AIBOM)** for every model transaction, tracking data provenance, model drift, prompt injection attempts, and multi-step agent decisions.
 
 ---
 
