@@ -9,9 +9,9 @@
 
 ---
 
-## 💡 What is lippedio?
+## 💡 What is lipped?
 
-**lippedio** bridges the gap between high-scale system observability and rigorous regulatory control. our platform ingests multi-tenant telemetry streams, applies advanced analytics to isolate root causes, and enforces automated **Compliance Intelligence** and **AI Governance** guardrails. 
+**lipped** bridges the gap between high-scale system observability and rigorous regulatory control. our platform ingests multi-tenant telemetry streams, applies advanced analytics to isolate root causes, and enforces automated **Compliance Intelligence** and **AI Governance** guardrails. 
 
 Whether you are managing private enterprise codebases or executing public open-source workflows, **lippedio** ensures your applications and autonomous AI agents operate safely within deterministic compliance boundaries.
 
@@ -23,8 +23,8 @@ We are currently rolling out lightweight, high-performance SDKs and native packa
 
 | Language / Runtime | Package Name | Status | Primary Focus |
 | :--- | :--- | :--- | :--- |
-| **Python** 🐍 | `lippedio` | *Coming Soon* | FastAPI middleware, Celery tracing, local model interceptors |
-| **Node.js** 🟢 | `@lippedio/sdk` | *Coming Soon* | Next.js tracing, asynchronous log context hooks |
-| **Go** 🐹 | `github.com/lippedio/sdk-go` | *Coming Soon* | High-concurrency telemetry streaming, line-rate log filtering |
+| **Python** 🐍 | `lipped` | *Coming Soon* | FastAPI middleware, Celery tracing, local model interceptors |
+| **Node.js** 🟢 | `@lipped/sdk` | *Coming Soon* | Next.js tracing, asynchronous log context hooks |
+| **Go** 🐹 | `github.com/lipped/sdk-go` | *Coming Soon* | High-concurrency telemetry streaming, line-rate log filtering |
 
 ---
