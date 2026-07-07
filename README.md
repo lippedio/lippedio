@@ -7,13 +7,6 @@
   <strong>The Unified Observability, Compliance, and Governance Layer for the Agentic Era.</strong>
 </p>
 
-<p align="center">
-  <a href="#-core-pillars">Core Pillars</a> •
-  <a href="#-multi-language-ecosystem">SDKs & Packages</a> •
-  <a href="#-architecture">Architecture</a> •
-  <a href="#-open-source--community">Open Source</a>
-</p>
-
 ---
 
 ## 💡 What is lippedio?
